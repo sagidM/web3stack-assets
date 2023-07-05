@@ -1,3 +1,4 @@
+# web3stack – web3 dev tools store
 [web3stack.me](https://web3stack.me/) is a web3 dev tools store. Our platform bridges the gap between blockchains, tools, and developers, allowing them to find each other. 
 
 Through our advanced filtering and categorization system, we empower developers to find the right tools for their projects and discover alternatives to their existing ones.
